@@ -9,7 +9,9 @@ html {
 body {
   font-family: sans-serif;
   line-height: 1.5;
-  text-size: 1.125rem;
+  font-size: 1.125rem;
+  margin: .5rem;
+  padding: 1rem;
 }
 
 img {
@@ -24,20 +26,21 @@ header p {
 header {
   background-color: #e2e2e2;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 
 }
 
 nav ul {
-  color: #0074d9;
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
-
+  justify-content: space-around;
+  margin: 0;
+  padding: .75em 1em .6em;
 }
 
 nav a,
 nav a:visited {
   text-decoration: none;
+  color: #0074d9;
 }
