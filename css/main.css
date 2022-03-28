@@ -8,11 +8,12 @@ html {
 
 img {
   width: 100%;
+  order: -1;
 }
 
 header {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  order: -1;
+
 }
