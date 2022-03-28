@@ -17,7 +17,7 @@ body {
 img {
   width: 2rem;
   order: -1;
-  padding-right: 1rem;
+  margin-right: 1rem;
 }
 
 header p {
