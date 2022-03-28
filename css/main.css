@@ -36,11 +36,11 @@ nav ul {
   display: flex;
   justify-content: space-around;
   margin: 0;
-  padding: .75em 1em .6em;
 }
 
 nav a,
 nav a:visited {
   text-decoration: none;
   color: #0074d9;
+  padding: .75em 1em .6em;
 }
