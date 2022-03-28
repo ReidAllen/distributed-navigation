@@ -28,3 +28,11 @@ header {
   align-items: center;
 
 }
+
+nav ul {
+  color: #0074d9;
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+
+}
