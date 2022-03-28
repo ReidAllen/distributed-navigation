@@ -17,11 +17,11 @@ body {
 img {
   width: 2rem;
   order: -1;
+  padding-right: 1rem;
 }
 
 header p {
   margin: 0 auto;
-  padding-left: 1rem;
 }
 
 header {
