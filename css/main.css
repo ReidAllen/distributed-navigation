@@ -26,7 +26,7 @@ header p {
 header {
   background-color: #e2e2e2;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 
 }
